@@ -1,4 +1,5 @@
 from torch.nn import Module
+import torch
 import time
 
 class BasicModule(Module):
